@@ -1,5 +1,11 @@
 # Compressive-Sensing
 A repo to introduce compressive sensing technique, from classic to modern, mostly based on book notes and paper annotation.
+一个从经典到现代引入压缩感测技术的仓库，主要基于书本笔记和论文笔记。
+
+TODO:
+- [ ] read current papers and add notes
+- [ ] read the book: Compressed Sensing _ Theory and Applications (2012)
+- [ ] read the website and conclude basic ideas of CS.
 
 ### Current Source List:
 -	A Mathematical Introduction to Compressed Sensing(2013)
