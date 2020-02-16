@@ -7,12 +7,6 @@ TODO:
 - [ ] read the book: Compressed Sensing _ Theory and Applications (2012)
 - [ ] read the website and conclude basic ideas of CS.
 
-### Current Source List:
--	A Mathematical Introduction to Compressed Sensing(2013)
--	a wavelet tour of signal processing sparse way(2012)
--	Compressed Sensing _ Theory and Applications (2012)
--	Sparse Optimization Theory and Methods (2018)
-
 ## How to Learning Compress Sensing
 
 ### Source Site
@@ -26,3 +20,32 @@ TODO:
 5. compressed sensing | What's new https://terrytao.wordpress.com/tag/compressed-sensing/
 6. Foundations: Theory of Compressed Sensing https://calculatedcontent.com/2012/12/28/foundations-theory-of-compressed-sensing/
 
+## Source List in This Repo
+
+### Current Book List:
+-	A Mathematical Introduction to Compressed Sensing(2013)
+-	a wavelet tour of signal processing sparse way(2012)
+-	Compressed Sensing _ Theory and Applications (2012)
+-	Sparse Optimization Theory and Methods (2018)
+
+### Current Paper List:
+- Compressed Sensing.pdf
+- Compressive Sensing: From Theory to Applications, a Survey.pdf
+- Revised Progressive-Hedging-Algorithm Based Two-layer Solution Scheme for Bayesian Reinforcement Learning.pdf
+- Robust Uncertainty Principles: Exact Signal Reconstruction from Highly Incomplete Frequency Information.pdf
+
+### Current Complex-Paper List:
+- A compressed sensing method for complex-valued signals with appli.pdf
+- A Convex Optimization Algorithm for Compressed Sensing in a Complex Domain: The Complex-Valued Split Bregman Method.pdf
+- A FAST FIXED-POINT ALGORITHM FOR INDEPENDENT COMPONENT ANALYSIS OF COMPLEX VALUED SIGNALS.pdf
+- Complex Sparse Projections for Compressed Sensing.pdf
+- Compressed sensing of complex-valued data.pdf
+- Compressed Sensing Radar Imaging: Fundamentals, Challenges, and Advances
+- Compressive Sensing – A 25 Minute Tour.pdf
+- Reconstruction of Complex Sparse Signals in Compressed Sensing with Real Sensing Matrices.pdf
+- Sparsity-undersampling tradeoff of compressed sensing in the complex domain.pdf
+- Two Effective Strategies for Complex Domain Compressive Sensing.pdf
+
+### Current Codes List:
+
+### Current My-Codes List:
