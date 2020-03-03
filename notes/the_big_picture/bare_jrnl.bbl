@@ -1,0 +1,443 @@
+\begin{thebibliography}{10}
+
+\bibitem{Urmson2008}
+Chris Urmson, Joshua Anhalt, Drew Bagnell, Christopher Baker, Robert Bittner,
+  M.~N. Clark, John Dolan, Dave Duggins, Tugrul Galatali, Chris Geyer, Michele
+  Gittleman, Sam Harbaugh, Martial Hebert, Thomas~M. Howard, Sascha Kolski,
+  Alonzo Kelly, Maxim Likhachev, Matt McNaughton, Nick Miller, Kevin Peterson,
+  Brian Pilnick, Raj Rajkumar, Paul Rybski, Bryan Salesky, Young~Woo Seo,
+  Sanjiv Singh, Jarrod Snider, Anthony Stentz, William Whittaker, Ziv
+  Wolkowicki, Jason Ziglar, Hong Bae, Thomas Brown, Daniel Demitrish, Bakhtiar
+  Litkouhi, Jim Nickolaou, Varsha Sadekar, Wende Zhang, Joshua Struble, Michael
+  Taylor, Michael Darms, and Dave Ferguson.
+\newblock {Autonomous driving in urban environments: Boss and the urban
+  challenge}.
+\newblock {\em J. F. Robot.}, 2008.
+
+\bibitem{pascal-voc-2007}
+M.~Everingham, L.~Van~Gool, C.~K.~I. Williams, J.~Winn, and A.~Zisserman.
+\newblock The {PASCAL} {V}isual {O}bject {C}lasses {C}hallenge 2007 {(VOC2007)}
+  {R}esults.
+\newblock
+  http://www.pascal-network.org/challenges/VOC/voc2007/workshop/index.html.
+
+\bibitem{BarHillel2014}
+Aharon {Bar Hillel}, Ronen Lerner, Dan Levi, and Guy Raz.
+\newblock {Recent progress in road and lane detection: A survey}.
+\newblock {\em Mach. Vis. Appl.}, 25(3):727--745, 2014.
+
+\bibitem{Feng2019}
+Di~Feng, Christian Haase-Schuetz, Lars Rosenbaum, Heinz Hertlein, Claudius
+  Glaeser, Fabian Timm, Werner Wiesbeck, and Klaus Dietmayer.
+\newblock {Deep Multi-modal Object Detection and Semantic Segmentation for
+  Autonomous Driving: Datasets, Methods, and Challenges}.
+\newblock 2019.
+
+\bibitem{Luo2020}
+Jun-hai Luo and Yang Yang.
+\newblock {基于数据融合的目标检测方法综述}.
+\newblock {\em Control and Decision}, 35, 2020.
+
+\bibitem{Hariharan2014}
+Bharath Hariharan, Pablo Arbel{\'{a}}ez, Ross Girshick, and Jitendra Malik.
+\newblock {Simultaneous detection and segmentation}.
+\newblock In {\em Lect. Notes Comput. Sci. (including Subser. Lect. Notes
+  Artif. Intell. Lect. Notes Bioinformatics)}, 2014.
+
+\bibitem{Kang2018}
+Kai Kang, Hongsheng Li, Junjie Yan, Xingyu Zeng, Bin Yang, Tong Xiao, Cong
+  Zhang, Zhe Wang, Ruohui Wang, Xiaogang Wang, and Wanli Ouyang.
+\newblock {T-CNN: Tubelets with Convolutional Neural Networks for Object
+  Detection from Videos}.
+\newblock {\em IEEE Trans. Circuits Syst. Video Technol.}, 2018.
+
+\bibitem{Zou2019}
+Zhengxia Zou, Zhenwei Shi, Yuhong Guo, and Jieping Ye.
+\newblock {Object Detection in 20 Years: A Survey}.
+\newblock pages 1--39, 2019.
+
+\bibitem{Arnold2019}
+Eduardo Arnold, Omar~Y Al-jarrah, Mehrdad Dianati, Saber Fallah, David Oxtoby,
+  and Alex Mouzakitis.
+\newblock {A Survey on 3D Object Detection Methods for Autonomous Driving
+  Applications}.
+\newblock {\em IEEE Trans. Intell. Transp. Syst.}, PP:1--14, 2019.
+
+\bibitem{Mees2016}
+Oier Mees, Andreas Eitel, and Wolfram Burgard.
+\newblock {Choosing smartly: Adaptive multimodal fusion for object detection in
+  changing environments}.
+\newblock In {\em IEEE Int. Conf. Intell. Robot. Syst.}, 2016.
+
+\bibitem{Eitel2015}
+Andreas Eitel, Jost~Tobias Springenberg, Luciano Spinello, Martin Riedmiller,
+  and Wolfram Burgard.
+\newblock {Multimodal deep learning for robust RGB-D object recognition}.
+\newblock In {\em IEEE Int. Conf. Intell. Robot. Syst.}, 2015.
+
+\bibitem{Yu2016}
+Jiahui Yu, Yuning Jiang, Zhangyang Wang, Zhimin Cao, and Thomas Huang.
+\newblock {UnitBox: An advanced object detection network}.
+\newblock {\em MM 2016 - Proc. 2016 ACM Multimed. Conf.}, pages 516--520, 2016.
+
+\bibitem{Rezatofighi2020}
+Hamid Rezatofighi, Nathan Tsoi, JunYoung Gwak, Amir Sadeghian, Ian Reid, and
+  Silvio Savarese.
+\newblock {Generalized Intersection Over Union: A Metric and a Loss for
+  Bounding Box Regression}.
+\newblock pages 658--666, 2020.
+
+\bibitem{Redmon2018}
+Joseph Redmon and Ali Farhadi.
+\newblock {YOLOv3: An Incremental Improvement}.
+\newblock 2018.
+
+\bibitem{Ren2017}
+Shaoqing Ren, Kaiming He, Ross Girshick, and Jian Sun.
+\newblock {Faster R-CNN: Towards Real-Time Object Detection with Region
+  Proposal Networks}.
+\newblock {\em IEEE Trans. Pattern Anal. Mach. Intell.}, 39(6):1137--1149,
+  2017.
+
+\bibitem{Yang2019}
+Wenming Yang, Xuechen Zhang, Yapeng Tian, Wei Wang, Jing~Hao Xue, and Qingmin
+  Liao.
+\newblock {Deep Learning for Single Image Super-Resolution: A Brief Review},
+  2019.
+
+\bibitem{Lu2017}
+Yongyi Lu, Cewu Lu, and Chi~Keung Tang.
+\newblock {Online Video Object Detection Using Association LSTM}.
+\newblock In {\em Proc. IEEE Int. Conf. Comput. Vis.}, 2017.
+
+\bibitem{Wang2018}
+Shiyao Wang, Yucong Zhou, Junjie Yan, and Zhidong Deng.
+\newblock {Fully motion-aware network for video object detection}.
+\newblock In {\em Lect. Notes Comput. Sci. (including Subser. Lect. Notes
+  Artif. Intell. Lect. Notes Bioinformatics)}, 2018.
+
+\bibitem{Geiger2012}
+Andreas Geiger, Philip Lenz, and Raquel Urtasun.
+\newblock {Are we ready for autonomous driving? the KITTI vision benchmark
+  suite}.
+\newblock In {\em Proc. IEEE Comput. Soc. Conf. Comput. Vis. Pattern
+  Recognit.}, 2012.
+
+\bibitem{Sun2019c}
+Pei Sun, Henrik Kretzschmar, Xerxes Dotiwalla, Aurelien Chouard, Vijaysai
+  Patnaik, Paul Tsui, James Guo, Yin Zhou, Yuning Chai, Benjamin Caine, Vijay
+  Vasudevan, Wei Han, Jiquan Ngiam, Hang Zhao, Aleksei Timofeev, Scott
+  Ettinger, Maxim Krivokon, Amy Gao, Aditya Joshi, Yu~Zhang, Jonathon Shlens,
+  Zhifeng Chen, and Dragomir Anguelov.
+\newblock {Scalability in Perception for Autonomous Driving: Waymo Open
+  Dataset}.
+\newblock 2019.
+
+\bibitem{nuscenes2019}
+Holger Caesar, Varun Bankiti, Alex~H. Lang, Sourabh Vora, Venice~Erin Liong,
+  Qiang Xu, Anush Krishnan, Yu~Pan, Giancarlo Baldan, and Oscar Beijbom.
+\newblock nuscenes: A multimodal dataset for autonomous driving.
+\newblock {\em arXiv preprint arXiv:1903.11027}, 2019.
+
+\bibitem{Huang2018}
+Xinyu Huang, Xinjing Cheng, Qichuan Geng, Binbin Cao, Dingfu Zhou, Peng Wang,
+  Yuanqing Lin, and Ruigang Yang.
+\newblock {The apolloscape dataset for autonomous driving}.
+\newblock In {\em IEEE Comput. Soc. Conf. Comput. Vis. Pattern Recognit.
+  Work.}, 2018.
+
+\bibitem{Xiaozhi2017}
+Chen Xiaozhi, Ma~Huimin, Wan Ji, Li~Bo, and Xia Tian.
+\newblock {Multi-View 3D Object Detection Network for Autonomous Driving}.
+\newblock {\em Comput. Videos}, pages 1907--1915, 2017.
+
+\bibitem{Mur-Artal2017}
+Raul Mur-Artal and Juan~D. Tardos.
+\newblock {ORB-SLAM2: An Open-Source SLAM System for Monocular, Stereo, and
+  RGB-D Cameras}.
+\newblock {\em IEEE Trans. Robot.}, 2017.
+
+\bibitem{Chadwick2019}
+Simon Chadwick, Will Maddern, Paul Newman, and R~O May.
+\newblock {Distant Vehicle Detection Using Radar and Vision}.
+\newblock 2019.
+
+\bibitem{Bijelic2019}
+Mario Bijelic and Tobias Gruber.
+\newblock {Seeing Through Fog Without Seeing Fog : Deep Sensor Fusion in the
+  Absence of Labeled Training Data}.
+\newblock 2019.
+
+\bibitem{Du2018}
+Xinxin Du, Marcelo H~Ang Jr, Sertac Karaman, Daniela Rus, and C~V Feb.
+\newblock {A General Pipeline for 3D Detection of Vehicles}.
+\newblock 2018.
+
+\bibitem{Banerjee2018}
+Koyel Banerjee, Dominik Notz, Johannes Windelen, Sumanth Gavarraju, and
+  Mingkang He.
+\newblock {Online Camera LiDAR Fusion and Object Detection on Hybrid Data for
+  Autonomous Driving}.
+\newblock {\em 2018 IEEE Intell. Veh. Symp.}, (Iv):1632--1638, 2018.
+
+\bibitem{Liu2016}
+Jingjing Liu, Shaoting Zhang, Shu Wang, and Dimitris~N Metaxas.
+\newblock {Multispectral Deep Neural Networks for Pedestrian Detection}.
+\newblock pages 1--13, 2016.
+
+\bibitem{Fischer2016}
+Volker Fischer, Michael Herman, Sven Behnke, and Autonomous~Intelligent
+  Systems.
+\newblock {Multispectral Pedestrian Detection using Deep Fusion Convolutional
+  Neural Networks}.
+\newblock (April):27--29, 2016.
+
+\bibitem{Viola2001}
+Paul Viola and Michael Jones.
+\newblock {Rapid object detection using a boosted cascade of simple features}.
+\newblock In {\em Proc. IEEE Comput. Soc. Conf. Comput. Vis. Pattern
+  Recognit.}, 2001.
+
+\bibitem{Viola2004}
+Paul Viola and Michael~J. Jones.
+\newblock {Robust Real-Time Face Detection}.
+\newblock {\em Int. J. Comput. Vis.}, 2004.
+
+\bibitem{Dalal2005}
+Navneet Dalal and Bill Triggs.
+\newblock {Histograms of oriented gradients for human detection}.
+\newblock In {\em Proc. - 2005 IEEE Comput. Soc. Conf. Comput. Vis. Pattern
+  Recognition, CVPR 2005}, 2005.
+
+\bibitem{Felzenszwalb2008}
+Pedro Felzenszwalb, David McAllester, and Deva Ramanan.
+\newblock {A discriminatively trained, multiscale, deformable part model}.
+\newblock In {\em 26th IEEE Conf. Comput. Vis. Pattern Recognition, CVPR},
+  2008.
+
+\bibitem{Krizhevsky2017}
+Alex Krizhevsky, Ilya Sutskever, and Geoffrey~E. Hinton.
+\newblock {ImageNet classification with deep convolutional neural networks}.
+\newblock {\em Commun. ACM}, 2017.
+
+\bibitem{Girshick2014}
+Ross Girshick, Jeff Donahue, Trevor Darrell, and Jitendra Malik.
+\newblock {Rich feature hierarchies for accurate object detection and semantic
+  segmentation}.
+\newblock In {\em Proc. IEEE Comput. Soc. Conf. Comput. Vis. Pattern
+  Recognit.}, 2014.
+
+\bibitem{Girshick2015}
+Ross Girshick.
+\newblock {Fast R-CNN}.
+\newblock In {\em Proc. IEEE Int. Conf. Comput. Vis.}, 2015.
+
+\bibitem{Girshick2016}
+Ross Girshick, Jeff Donahue, Trevor Darrell, and Jitendra Malik.
+\newblock {Region-Based Convolutional Networks for Accurate Object Detection
+  and Segmentation}.
+\newblock {\em IEEE Trans. Pattern Anal. Mach. Intell.}, 2016.
+
+\bibitem{Lin2017}
+Tsung~Yi Lin, Piotr Doll{\'{a}}r, Ross Girshick, Kaiming He, Bharath Hariharan,
+  and Serge Belongie.
+\newblock {Feature pyramid networks for object detection}.
+\newblock In {\em Proc. - 30th IEEE Conf. Comput. Vis. Pattern Recognition,
+  CVPR 2017}, 2017.
+
+\bibitem{Redmon2016}
+Joseph Redmon, Santosh Divvala, Ross Girshick, and Ali Farhadi.
+\newblock {You only look once: Unified, real-time object detection}.
+\newblock In {\em Proc. IEEE Comput. Soc. Conf. Comput. Vis. Pattern
+  Recognit.}, 2016.
+
+\bibitem{Impiombato2015}
+D.~Impiombato, S.~Giarrusso, T.~Mineo, O.~Catalano, C.~Gargano, G.~{La Rosa},
+  F.~Russo, G.~Sottile, S.~Billotta, G.~Bonanno, S.~Garozzo, A.~Grillo,
+  D.~Marano, and G.~Romeo.
+\newblock {SSD: Single Shot MultiBox Detector Wei}.
+\newblock {\em Nucl. Instruments Methods Phys. Res. Sect. A Accel.
+  Spectrometers, Detect. Assoc. Equip.}, 2015.
+
+\bibitem{Redmon2017}
+Joseph Redmon and Ali Farhadi.
+\newblock {YOLO9000: Better, faster, stronger}.
+\newblock {\em Proc. - 30th IEEE Conf. Comput. Vis. Pattern Recognition, CVPR
+  2017}, 2017-Janua:6517--6525, 2017.
+
+\bibitem{Lin2018}
+Tsung~Yi Lin, Priyal Goyal, Ross Girshick, Kaiming He, and Piotr Dollar.
+\newblock {Focal loss for dense object detection}.
+\newblock {\em IEEE Trans. Pattern Anal. Mach. Intell.}, 2018.
+
+\bibitem{Meyer2019}
+Gregory~P Meyer, Ankit Laddha, Eric Kee, Carlos Vallespi-gonzalez, and Carl~K
+  Wellington.
+\newblock {LaserNet : An Efficient Probabilistic 3D Object Detector for
+  Autonomous Driving}.
+\newblock 2019.
+
+\bibitem{Qi2016}
+Charles~R. Qi, Hao Su, Kaichun Mo, and Leonidas~J. Guibas.
+\newblock {PointNet: Deep learning on point sets for 3D classification and
+  segmentation}.
+\newblock In {\em Proc. - 30th IEEE Conf. Comput. Vis. Pattern Recognition,
+  CVPR 2017}, 2017.
+
+\bibitem{Qi2017}
+Charles~R. Qi, Li~Yi, Hao Su, and Leonidas~J. Guibas.
+\newblock {PointNet++: Deep hierarchical feature learning on point sets in a
+  metric space}.
+\newblock In {\em Adv. Neural Inf. Process. Syst.}, 2017.
+
+\bibitem{Yang2018a}
+Bin Yang, Wenjie Luo, and Raquel Urtasun.
+\newblock {PIXOR: Real-time 3D Object Detection from Point Clouds}.
+\newblock In {\em Proc. IEEE Comput. Soc. Conf. Comput. Vis. Pattern
+  Recognit.}, 2018.
+
+\bibitem{Asvadi2017}
+Alireza Asvadi, Luis Garrote, Cristiano Premebida, Paulo Peixoto, and Urbano~J
+  Nunes.
+\newblock {Multimodal vehicle detection : Fusing 3D-LIDAR and color camera
+  data}.
+\newblock (May 2018), 2017.
+
+\bibitem{Schlosser2016}
+Joel Schlosser, Christopher~K Chow, and Zsolt Kira.
+\newblock {Fusing LIDAR and Images for Pedestrian Detection using Convolutional
+  Neural Networks}.
+\newblock pages 2198--2205, 2016.
+
+\bibitem{Qi2018}
+Charles~R Qi and Leonidas~J Guibas.
+\newblock {Frustum PointNets for 3D Object Detection from RGB-D Data}.
+\newblock 2018.
+
+\bibitem{Guan2018}
+Dayan Guan, Yanpeng Cao, Jiangxin Yang, Yanlong Cao, and Michael Ying.
+\newblock {Fusion of Multispectral Data Through Illumination-aware Deep Neural
+  Networks for Pedestrian Detection}.
+\newblock 2018.
+
+\bibitem{Yang2018}
+Bin Yang, Ming Liang, Raquel Urtasun, Uber Advanced, and Technologies Group.
+\newblock {HDNET : Exploiting HD Maps for 3D Object Detection}.
+\newblock (CoRL):1--10, 2018.
+
+\bibitem{Zhou2019}
+Taohua Zhou, Kun Jiang, Zhongyang Xiao, Chunlei Yu, and Diange Yang.
+\newblock Object detection using multi-sensor fusion based on deep learning.
+\newblock pages 5770--5782, 07 2019.
+
+\bibitem{Cho2014}
+Hyunggi Cho, Young~Woo Seo, B.~V.K.Vijaya Kumar, and Ragunathan~Raj Rajkumar.
+\newblock {A multi-sensor fusion system for moving object detection and
+  tracking in urban driving environments}.
+\newblock In {\em Proc. - IEEE Int. Conf. Robot. Autom.}, pages 1836--1843,
+  2014.
+
+\bibitem{Dou2019}
+Jian Dou, Jianru Xue, and Jianwu Fang.
+\newblock {SEG-VoxelNet for 3D Vehicle Detection from RGB and LiDAR Data}.
+\newblock pages 4362--4368, 2019.
+
+\bibitem{Liang2019}
+Ming Liang, Bin Yang, Yun Chen, Rui Hu, and Raquel Urtasun.
+\newblock {Multi-Task Multi-Sensor Fusion for 3D Object Detection}.
+\newblock In {\em IEEE Conf. Comput. Vis. Pattern Recognit. (CVPR), 2019},
+  pages 7345--7353, 2019.
+
+\bibitem{Sindagi2019}
+Vishwanath~A Sindagi, Yin Zhou, and Oncel Tuzel.
+\newblock {MVX-Net: Multimodal VoxelNet for 3D Object Detection}.
+\newblock (i), 2019.
+
+\bibitem{Liang}
+Ming Liang, Bin Yang, Shenlong Wang, and Raquel Urtasun.
+\newblock {Deep Continuous Fusion for Multi-Sensor 3D Object Detection}.
+\newblock 2018.
+
+\bibitem{Wang2018a}
+Zining Wang.
+\newblock {Fusing Bird ' s Eye View LIDAR Point Cloud and Front View Camera
+  Image for Deep Object Detection}.
+\newblock pages 1--12, 2018.
+
+\bibitem{Kim2018}
+Jaekyum Kim, Junho Koh, Yecheol Kim, Jaehyung Choi, Youngbae Hwang, and Jun~Won
+  Choi.
+\newblock {Robust Deep Multi-modal Learning Based on Gated Information Fusion
+  Network}.
+\newblock pages 1--16, 2018.
+
+\bibitem{Casas2018}
+Sergio Casas, Wenjie Luo, and Raquel Urtasun.
+\newblock {IntentNet: Learning to Predict Intention from Raw Sensor Data}.
+\newblock Technical Report CoRL, 2018.
+
+\bibitem{Ku2018}
+Jason Ku, Melissa Mozifian, Jungwook Lee, Ali Harakeh, and Steven~L. Waslander.
+\newblock {Joint 3D Proposal Generation and Object Detection from View
+  Aggregation}.
+\newblock {\em IEEE Int. Conf. Intell. Robot. Syst.}, pages 5750--5757, 2018.
+
+\bibitem{Pfeuffer2018}
+Andreas Pfeuffer and Klaus Dietmayer.
+\newblock {Optimal Sensor Data Fusion Architecture for Object Detection in
+  Adverse Weather Conditions}.
+\newblock 2018.
+
+\bibitem{xu2018}
+Danfei Xu and Stanford Unviersity.
+\newblock {PointFusion : Deep Sensor Fusion for 3D Bounding Box Estimation}.
+\newblock 2018.
+
+\bibitem{Du2017}
+Xinxin Du, Marcelo H~Ang Jr, and Daniela Rus.
+\newblock {Car Detection for Autonomous Vehicle : LIDAR and Vision Fusion
+  Approach Through Deep Learning Framework}.
+\newblock 2017.
+
+\bibitem{Matti2017}
+Damien Matti, Hazım~Kemal Ekenel, and Jean-philippe Thiran.
+\newblock {Combining LiDAR Space Clustering and Convolutional Neural Networks
+  for Pedestrian Detection}.
+\newblock 2017.
+
+\bibitem{Schneider2017}
+Lukas Schneider and Manuel Jasch.
+\newblock {Multimodal Neural Networks : RGB-D for Semantic Segmentation and
+  Object Detection}.
+\newblock [1] L. Sch(October), 2017.
+
+\bibitem{Oh2017}
+Sang-il Oh and Hang-bong Kang.
+\newblock {Object Detection and Classification by Decision-Level Fusion for
+  Intelligent Vehicle Systems}.
+\newblock pages 1--21, 2017.
+
+\bibitem{Kim2016}
+Taewan Kim and Joydeep Ghosh.
+\newblock {Robust Detection of Non-motorized Road Users using Deep Learning on
+  Optical and LIDAR Data}.
+\newblock In {\em 2016 IEEE 19th Int. Conf. Intell. Transp. Syst.}, 2016.
+
+\bibitem{Bai2018}
+Min Bai, Gellert Mattyus, Namdar Homayounfar, Shenlong Wang, Shrinidhi~Kowshika
+  Lakshmikanth, and Raquel Urtasun.
+\newblock {Deep Multi-Sensor Lane Detection}.
+\newblock {\em IEEE Int. Conf. Intell. Robot. Syst.}, pages 3102--3109, 2019.
+
+\bibitem{Caltagirone2019}
+Luca Caltagirone, Mauro Bellone, Lennart Svensson, and Mattias Wahde.
+\newblock {LIDAR–camera fusion for road detection using fully convolutional
+  neural networks}.
+\newblock {\em Rob. Auton. Syst.}, 111:125--131, 2019.
+
+\bibitem{Hochreiter1997}
+Sepp Hochreiter and J{\"{u}}rgen Schmidhuber.
+\newblock {Long Short-Term Memory}.
+\newblock {\em Neural Comput.}, 1997.
+
+\end{thebibliography}
