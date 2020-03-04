@@ -5,7 +5,7 @@ A repo to introduce compressive sensing technique, from classic to modern, mostl
 TODO:
 - [ ] read current papers and add notes
 - [ ] read the book: Compressed Sensing _ Theory and Applications (2012)
-- [ ] read the website and conclude basic ideas of CS.
+- [x] read the website and conclude basic ideas of CS.
 
 ## How to Learning Compress Sensing
 

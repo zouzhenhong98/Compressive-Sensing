@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}Compressed sensing of complex-valued data}{2}{section.1}
+\contentsline {paragraph}{Info}{2}{section*.2}
+\contentsline {paragraph}{Problem to Solve}{2}{section*.3}
+\contentsline {paragraph}{Approach}{2}{section*.4}
+\contentsline {section}{\numberline {2}title}{3}{section.2}
+\contentsline {paragraph}{Info}{3}{section*.5}
+\contentsline {paragraph}{Problem to Solve}{3}{section*.6}
+\contentsline {paragraph}{Approach}{3}{section*.7}
+\contentsline {section}{\numberline {3}title}{4}{section.3}
+\contentsline {paragraph}{Info}{4}{section*.8}
+\contentsline {paragraph}{Problem to Solve}{4}{section*.9}
+\contentsline {paragraph}{Approach}{4}{section*.10}
