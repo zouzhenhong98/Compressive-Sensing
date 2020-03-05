@@ -7,7 +7,7 @@ TODO:
 - [ ] read the book: Compressed Sensing _ Theory and Applications (2012)
 - [x] read the website and conclude basic ideas of CS.
 
-## How to Learning Compress Sensing
+## How to Learn Compress Sensing
 
 ### Source Site
 -	Compressive Sensing Resources | http://dsp.rice.edu/CS/
