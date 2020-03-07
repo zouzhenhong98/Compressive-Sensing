@@ -29,10 +29,15 @@ TODO:
 -	Sparse Optimization Theory and Methods (2018)
 
 ### Current Paper List:
-- Compressed Sensing.pdf
-- Compressive Sensing: From Theory to Applications, a Survey.pdf
-- Revised Progressive-Hedging-Algorithm Based Two-layer Solution Scheme for Bayesian Reinforcement Learning.pdf
-- Robust Uncertainty Principles: Exact Signal Reconstruction from Highly Incomplete Frequency Information.pdf
+- A unified approach to sparse signal processing.pdf
+- Compressive sampling.pdf
+- Fast Sparse Representation Based on Smoothed L0
+Norm.pdf
+- IEEE Information Theory
+Society Newsletter.pdf
+- Near Optimal Signal Recovery From Random Projections:Universal Encoding Strategies?.pdf
+- Stable Signal Recovery from
+Incomplete and Inaccurate Measurements.pdf
 
 ### Current Complex-Paper List:
 - A compressed sensing method for complex-valued signals with appli.pdf
